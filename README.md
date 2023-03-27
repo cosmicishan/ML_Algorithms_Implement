@@ -1,3 +1,5 @@
+# Machine Learning A-Z
+
 I recently completed the Machine Learning A-Z course on Udemy by the SuperDataScience team, instructed by Kirill Eremenko and Hadelin de Ponteves. In this repository, I have uploaded different algorithms of regression, classification, and clustering that I learned from the course. I obtained the datasets from Kaggle and the SuperDataScience team's official website.
 
 For the machine learning section, I used various libraries such as NumPy, Pandas, Matplotlib, and scikit-learn. I performed data pre-processing, and at the end of every file, I visualized the data using Matplotlib.
